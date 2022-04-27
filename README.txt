@@ -3,6 +3,9 @@ This project contains:
 1) A basic Web application to upload and check the mimetype of a file
 2) A Cypress test suit to test this app
 
+To install the dependencies:
+  npm install
+
 To run the Web server:
   nodejs index.js
 
